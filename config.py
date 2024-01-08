@@ -25,7 +25,7 @@ PUSH_TOKEN = os.environ.get("PUSHPLUS_KEY")
 *********** 地图配置 ***********
 获取地点信息,这里用的高德api,需要自己去高德开发者平台申请自己的key
 '''
-AMAP_KEY = os.environ.get("4325b530d3b0f723ed891ff60ae4f237")
+AMAP_KEY = "893825ed0ee59794f80957f536ecd85c"
 
 
 '''
